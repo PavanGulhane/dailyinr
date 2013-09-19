@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/hourlyinr/src/com/hourlyinr/tweet/test/UpdateStatus.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.hourlyinr.tweet.test.UpdateStatus"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="AABBCC"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="hourlyinr"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dtwitter4j.oauth.consumerKey=h5zGr0ebDKVS9hnMUDqshg&#10;-Dtwitter4j.oauth.consumerSecret=cqO1DSADX4iSR83M9My4RmxJKK7tncDLHbCZZXdg&#10;-Dtwitter4j.oauth.accessToken=1616373044-3WbaJwH1bHRUQNb24X9TViIh7WrccYGycIKLMBB&#10;-Dtwitter4j.oauth.accessTokenSecret=xCvjyXxTYum3Nmq3pbeelQnEolbecEpkanntcNkotg"/>
+</launchConfiguration>
